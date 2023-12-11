@@ -1,0 +1,1025 @@
+{
+  "categories": [
+    {
+      "category": "Business Creation",
+      "books": [
+        {
+          "title": "Go It Alone",
+          "author": "Bruce Judson",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Lean Startup",
+          "author": "Eric Ries",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Street Smarts",
+          "author": "Norm Brodsky & Bo Burlingham",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Ready, Fire, Aim",
+          "author": "Michael Masterson",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Escape from Cubicle Nation",
+          "author": "Pamela Slim",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Bankable Business Plans",
+          "author": "Edward Rogoff",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Value-Creation & Testing",
+      "books": [
+        {
+          "title": "Rework",
+          "author": "Jason Fried & David Heinemeier Hansson",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The New Business Road Test",
+          "author": "John Mullins",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "How to Make Millions With Your Ideas",
+          "author": "Dan Kennedy",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Marketing",
+      "books": [
+        {
+          "title": "All Marketers Are Liars",
+          "author": "Seth Godin",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Permission Marketing",
+          "author": "Seth Godin",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The 22 Immutable Laws of Marketing",
+          "author": "Al Ries & Jack Trout",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Getting Everything You Can Out of All You’ve Got",
+          "author": "Jay Abraham",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sales",
+      "books": [
+        {
+          "title": "The Psychology of Selling",
+          "author": "Brian Tracy",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Pitch Anything",
+          "author": "Oren Klaff",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Ultimate Sales Machine",
+          "author": "Chet Holmes",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Value-Based Fees",
+          "author": "Alan Weiss",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "SPIN Selling",
+          "author": "Neil Rackham",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Value-Delivery",
+      "books": [
+        {
+          "title": "Indispensable",
+          "author": "Joe Calloway",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Goal: A Process of Ongoing Improvement",
+          "author": "Eliyahu Goldratt",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Lean Thinking",
+          "author": "James Womack & Daniel Jones",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "books": [
+        {
+          "title": "Financial Intelligence for Entrepreneurs",
+          "author": "Karen Berman & Joe Knight",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Simple Numbers, Straight Talk, Big Profits",
+          "author": "Greg Crabtree",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The 1% Windfall",
+          "author": "Rafi Mohammed",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Accounting Made Simple",
+          "author": "Mike Piper",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "How to Read a Financial Report",
+          "author": "John A. Tracy",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Venture Deals",
+          "author": "Brad Feld & Jason Mendelson",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "The Human Mind",
+      "books": [
+        {
+          "title": "Thinking, Fast and Slow",
+          "author": "Daniel Kahneman",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Brain Rules",
+          "author": "John Medina",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Making Sense of Behavior",
+          "author": "William T. Powers",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Driven",
+          "author": "Paul Lawrence & Nitin Nohria",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Deep Survival",
+          "author": "Laurence Gonzales",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Productivity & Effectiveness",
+      "books": [
+        {
+          "title": "Getting Things Done",
+          "author": "David Allen",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Power of Full Engagement",
+          "author": "Jim Loehr & Tony Schwartz",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "StrengthsFinder 2.0",
+          "author": "Tom Rath",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Bit Literacy",
+          "author": "Mark Hurst",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "10 Days to Faster Reading",
+          "author": "Abby Marks-Beale",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Problem Solving",
+      "books": [
+        {
+          "title": "The 80/20 Principle",
+          "author": "Richard Koch",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Accidental Genius",
+          "author": "Mark Levy",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Learning from the Future",
+          "authors": "Liam Fahey & Robert Randall",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Behavioral Change",
+      "books": [
+        {
+          "title": "The Power of Less",
+          "author": "Leo Babauta",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Path of Least Resistance",
+          "author": "Robert Fritz",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Re-Create Your Life",
+          "author": "Morty Lefkoe",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Self-Directed Behavior",
+          "authors": "David Watson & Roland Tharp",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Decision-Making",
+      "books": [
+        {
+          "title": "Sources of Power: How People Make Decisions",
+          "author": "Gary Klein",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Smart Choices",
+          "authors": "John S. Hammond et al",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Ethics for the Real World",
+          "authors": "Ronald Howard & Clinton Korver",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Communication",
+      "books": [
+        {
+          "title": "On Writing Well",
+          "author": "William Zinsser",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Presentation Zen",
+          "author": "Garr Reynolds",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Made to Stick",
+          "authors": "Chip and Dan Heath",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Copywriter’s Handbook",
+          "author": "Robert Bly",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Show Me The Numbers",
+          "author": "Stephen Few",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Influence",
+      "books": [
+        {
+          "title": "Influence: The Psychology of Persuasion",
+          "author": "Robert B. Cialdini",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "How to Win Friends and Influence People",
+          "author": "Dale Carnegie",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Crucial Conversations",
+          "authors": "Kerry Patterson et al",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The 48 Laws of Power",
+          "author": "Robert Greene",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Negotiation",
+      "books": [
+        {
+          "title": "Bargaining For Advantage",
+          "author": "G. Richard Shell",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "3-D Negotiation",
+          "authors": "David Lax & James Sebenius",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Partnership Charter",
+          "author": "David Gage",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Management",
+      "books": [
+        {
+          "title": "First, Break All The Rules",
+          "authors": "Marcus Buckingham & Curt Coffman",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "12: The Elements of Great Managing",
+          "authors": "Rodd Wagner & James Harter",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Growing Great Employees",
+          "author": "Erika Andersen",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Essential Drucker",
+          "author": "Peter Drucker",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Halo Effect",
+          "author": "Phil Rosenzweig",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Leadership",
+      "books": [
+        {
+          "title": "Tribes",
+          "author": "Seth Godin",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Total Leadership",
+          "author": "Stewart Friedman",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "What Got You Here Won’t Get You There",
+          "author": "Marshall Goldsmith",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The New Leader’s 100-Day Action Plan",
+          "authors": "George Bradt et al",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Project Management",
+      "books": [
+        {
+          "title": "Making Things Happen",
+          "author": "Scott Berkun",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Results Without Authority",
+          "author": "Tom Kendrick",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Systems",
+      "books": [
+        {
+          "title": "Thinking in Systems",
+          "author": "Donella Meadows",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Work the System",
+          "author": "Sam Carpenter",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Analysis",
+      "books": [
+        {
+          "title": "Thinking Statistically",
+          "author": "Uri Bram",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Turning Numbers Into Knowledge",
+          "author": "Jonathan Koomey",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "How to Lie with Statistics",
+          "author": "Darrell Huff",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Marketing Metrics",
+          "authors": "Paul Farris et al",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Economist Numbers Guide",
+          "author": "Richard Stuteley",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Corporate Skills",
+      "books": [
+        {
+          "title": "The Unwritten Laws of Business",
+          "author": "W.J. King",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Effective Executive",
+          "author": "Peter Drucker",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Simplicity Survival Handbook",
+          "author": "Bill Jensen",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Hire With Your Head",
+          "author": "Lou Adler",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Corporate Strategy",
+      "books": [
+        {
+          "title": "Purpose",
+          "author": "Nikos Mourkogiannis",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Competitive Strategy",
+          "author": "Michael Porter",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Blue Ocean Strategy",
+          "authors": "W. Chan Kim & Renée Mauborgne",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Seeing What’s Next",
+          "authors": "Clayton M. Christensen et al",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Creativity & Innovation",
+      "books": [
+        {
+          "title": "The Creative Habit",
+          "author": "Twyla Tharp",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Myths of Innovation",
+          "author": "Scott Berkun",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Innovation and Entrepreneurship",
+          "author": "Peter Drucker",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Design",
+      "books": [
+        {
+          "title": "The Design of Everyday Things",
+          "author": "Donald Norman",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Universal Principles of Design",
+          "authors": "William Lidwell et al",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Consulting",
+      "books": [
+        {
+          "title": "Getting Started in Consulting",
+          "author": "Alan Weiss",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Secrets of Consulting",
+          "author": "Gerald M. Weinberg",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Personal Finance",
+      "books": [
+        {
+          "title": "Your Money or Your Life",
+          "authors": "Joel Dominguez & Vicki Robin",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Millionaire Next Door",
+          "authors": "Thomas Stanley & William Danko",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "I Will Teach You To Be Rich",
+          "author": "Ramit Sethi",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "Fail-Safe Investing",
+          "author": "Harry Browne",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Personal Growth",
+      "books": [
+        {
+          "title": "Lead the Field",
+          "author": "Earl Nightingale",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "The Art of Exceptional Living",
+          "author": "Jim Rohn",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        },
+        {
+          "title": "A Guide to the Good Life",
+          "author": "William Braxton Irvine",
+          "links": {
+            "review": "",
+            "book": "",
+            "pdf": ""
+          }
+        }
+      ]
+    }
+  ]
+}
